@@ -26,9 +26,3 @@ coming.
 - Website: [rotarysorell.org.au](https://rotarysorell.org.au)
 - Email: secretary.sorell@rotary9830.org.au
 - Facebook: [sorellrotaryclub](https://www.facebook.com/sorellrotaryclub)
-
-## What is on GitHub
-
-The source of the club's websites, published read-only. Changes are made
-upstream and copied here automatically, so issues and pull requests on
-these repositories are not monitored — email the secretary instead.
