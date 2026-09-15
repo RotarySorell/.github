@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://rotarysorell.org.au"><img src="https://rotarysorell.org.au/images/rotary-club-sorell.png" alt="Rotary Club of Sorell" width="360"></a>
+  <a href="https://rotarysorell.org.au">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+      <img src="logo-light.png" alt="Rotary Club of Sorell" width="360">
+    </picture>
+  </a>
 </p>
 
 **Rotary Club of Sorell Inc** is a volunteer community service club in
