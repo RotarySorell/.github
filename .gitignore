@@ -1,0 +1,17 @@
+# Working notes — untracked by house rule
+docs/superpowers/
+
+# Agent worktrees
+.claude/worktrees/
+
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Credentials — never tracked
+.env
+.env.*
+*.pem
+*.key

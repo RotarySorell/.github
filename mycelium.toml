@@ -1,0 +1,10 @@
+name    = ".github"
+summary = "Public profile README of the Rotary Club of Sorell GitHub organisation"
+kind    = "docs"
+status  = "active"
+tags    = ["rotary", "github", "profile"]
+stack   = ["markdown"]
+
+[[provides]]
+name    = "rotary-sorell-github-profile"
+summary = "What visitors see at github.com/RotarySorell"
