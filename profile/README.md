@@ -15,7 +15,6 @@ for projects that fill local needs.
 ## What the club does
 
 - Public-access defibrillators placed and maintained around the district
-- Dignity bags: packs of essentials for people in crisis
 - Local community infrastructure, such as bus shelters
 - Rotary youth programs, and grants to local schools and community groups
 - The **Monster Community Auction** — [auction.rotarysorell.org.au](https://auction.rotarysorell.org.au)
