@@ -17,7 +17,7 @@ To undo a change: revert the commit.
 
 ## Images
 
-`assets/rotary-club-sorell.png` is the club signature, Rotary International's
+`assets/rotary-sorell.png` is the club logo, Rotary International's
 mark, used under the club's entitlement from Rotary's Brand Center. Everything
 in `profile/` that ends in `.png` is made from it by `tools/build-images.sh`
 (needs ImageMagick 7): run it after replacing the source, then commit
