@@ -17,16 +17,18 @@ for projects that fill local needs.
 - Public-access defibrillators placed and maintained around the district
 - Local community infrastructure, such as bus shelters
 - Rotary youth programs, and grants to local schools and community groups
+- Support for Rotary International's aid work overseas
 - The **Monster Community Auction** — [auction.rotarysorell.org.au](https://auction.rotarysorell.org.au)
 
 ## Meetings
 
 The 1st and 3rd Monday of each month, 6:30pm for a 7:00pm start, at the
-Pembroke Hotel, Sorell. Visitors are welcome — let the secretary know you are
-coming.
+Pembroke Hotel, Sorell. Visitors are welcome — say which meeting you are coming to at
+[rotarysorell.org.au/guest](https://rotarysorell.org.au/guest).
 
 ## Contact
 
 - Website: [rotarysorell.org.au](https://rotarysorell.org.au)
 - Email: secretary.sorell@rotary9830.org.au
 - Facebook: [sorellrotaryclub](https://www.facebook.com/sorellrotaryclub)
+- Post: PO Box 79, Sorell TAS 7172
