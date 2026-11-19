@@ -1,5 +1,7 @@
 # .github
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 The public profile of the Rotary Club of Sorell's GitHub organisation,
 [github.com/RotarySorell](https://github.com/RotarySorell).
 `profile/README.md` is what visitors see on the organisation page.
