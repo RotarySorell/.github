@@ -6,3 +6,7 @@ tags    = ["rotary", "github", "profile"]
 [[provides]]
 name    = "rotary-sorell-github-profile"
 summary = "What visitors see at github.com/RotarySorell"
+
+[fleet]
+exempt      = ["roadmap"]
+exempt_note = "the club's public GitHub profile"
