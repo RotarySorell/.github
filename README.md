@@ -12,7 +12,8 @@ Edit `profile/README.md` and commit. GitHub shows the change on the
 organisation page as soon as it arrives.
 
 The club's details here — meetings, contact, projects — are copied from the
-club website's `site/llms.txt` (repo `website`). When they change there,
+club website's https://rotarysorell.org.au/llms.txt, made from
+`src/data/club.js` in repo `website`. When they change there,
 change them here too.
 
 To undo a change: revert the commit.
