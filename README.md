@@ -8,15 +8,15 @@ The public profile of the Rotary Club of Sorell's GitHub organisation,
 
 ## Changing it
 
-Edit `profile/README.md` and commit. GitHub shows the change on the
-organisation page as soon as it arrives.
+Edit `profile/README.md`, commit, and push to the club's forge. The forge
+copies it to GitHub, which shows it on the organisation page within seconds.
 
 The club's details here — meetings, contact, projects — are copied from the
 club website's https://rotarysorell.org.au/llms.txt, made from
 `src/data/club.js` in repo `website`. When they change there,
 change them here too.
 
-To undo a change: revert the commit.
+To undo a change: revert the commit and push.
 
 ## Images
 
