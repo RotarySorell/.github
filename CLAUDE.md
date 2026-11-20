@@ -22,7 +22,7 @@ it must stay public or the profile disappears.
 ## Rules
 
 - The club's details (meetings, contact, projects) are copied from
-  https://rotarysorell.org.au/llms.txt, made from `src/data/club.js` in `rotary/website`. When
+  https://rotarysorell.org.au/llms.txt, made from `src/data/club.js` in the club's `website` repo. When
   that changes, change the profile to match.
 - `avatar.png` is uploaded by hand in the GitHub organisation's settings; nothing deploys it.
 - Main-only. The push mirror publishes it.
