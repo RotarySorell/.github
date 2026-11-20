@@ -11,8 +11,3 @@ default:
 [group("build")]
 images:
     tools/build-images.sh
-
-# Non-mutating gate: the docgraph audit the pre-push hook runs
-[group("check")]
-gate:
-    docgraph .

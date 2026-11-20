@@ -9,4 +9,4 @@ summary = "What visitors see at github.com/RotarySorell"
 
 [fleet]
 exempt      = ["roadmap", "hookhost", "hookspath"]
-exempt_note = "the club's public GitHub profile; no docgraph pre-push gate, so a successor officer can push without docgraph installed (as rotary/rotary)"
+exempt_note = "the club's public GitHub profile; pushes run no hook, so a successor officer needs no extra tools"
